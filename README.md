@@ -1,1 +1,1 @@
-# nixos-config
+Moved @ https://codeberg.org/xootzie/nixos-config
